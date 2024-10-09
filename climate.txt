@@ -1,0 +1,3 @@
+climate
+today weather  is cool
+tomorrow might be sunny

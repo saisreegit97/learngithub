@@ -1,0 +1,6 @@
+write something
+save changes
+use command git add . to save those in editor
+use commit by git commit -m " "
+check status by git status
+then push changes to github by git push
